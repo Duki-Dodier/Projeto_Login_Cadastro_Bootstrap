@@ -58,6 +58,7 @@ body{
 }
 @media(max-width: 768px) {
     .btn.btn-primary{
+        margin-top: 20px;
         width: 100%;
     }
 }
@@ -70,4 +71,7 @@ body{
 #link-container{
     text-align: center;
     padding-top: 50px;
+}
+#helloImg{
+    margin-top: 50px;
 }
